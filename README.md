@@ -1,4 +1,4 @@
-# CS-2852_Lab3
+# CS-2852_Lab3 from Winter 2017
 
 Overview
 
